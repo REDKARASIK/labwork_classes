@@ -16,7 +16,7 @@ int main() {
     Array y;
     y = b;
     if (y == b) { // сравниваются все элементы
-        std::cout << "equal\n" << std::endl;
+        std::cout << "equal" << std::endl;
     }
     if (!(x != c)) {
         std::cout << "equal" << std::endl;
